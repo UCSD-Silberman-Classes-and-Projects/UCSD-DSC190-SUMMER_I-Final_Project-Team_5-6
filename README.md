@@ -11,7 +11,7 @@ Peter Little
 
 Kaitlyn Tam
 
-Jacey Chow
+Jacey Chow - B.S. Data Science, Minor in Business Analytics
 
 ## Abstract
 This project extends the open-source [DonkeyCar](https://github.com/autorope/donkeycar) autonomous racing library along two independent tracks. **Track 1** improves the robustness of DonkeyCar's default steering CNN by expanding its training-time data augmentation pipeline (brightness, blur, gamma, noise, shadow, sunlight) and adding post-training image transformations (crop, lane-isolate), so a model trained under one lighting condition can still drive reliably at other times of day. **Track 2** builds a suite of explainability and uncertainty tools that let a user look inside the CNN's "black box" — live confidence, novelty/out-of-distribution, and prediction-stability signals surfaced through the web dashboard, automatic throttle reduction when the model is unsure, and an offline Grad-CAM/saliency viewer for diagnosing exactly where and why the model failed.
@@ -147,4 +147,4 @@ Thank you to Professor Silberman and TAs Evan Chou, Jose Castillo and Abdulaziz 
 * Yash Tandon - [ytandon@ucsd.edu](mailto:ytandon@ucsd.edu) | [LinkedIn](https://linkedin.com/in/yashtandon05)
 * Peter Little -
 * Kaitlyn Tam - 
-* Jacey Chow -
+* Jacey Chow - j6chow@ucsd.edu
